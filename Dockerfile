@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:11-jdk-alpine
 
 LABEL maintainer="Atomist <docker@atomist.com>"
 
